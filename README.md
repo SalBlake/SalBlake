@@ -36,3 +36,5 @@
 <a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; -->
 <a href="mailto:salblake001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/salblake001"><img src="https://img.shields.io/badge/-@salblake001_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<br>
+<a href="https://www.buymeacoffee.com/LittleSal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
