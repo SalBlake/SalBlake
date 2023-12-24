@@ -7,11 +7,12 @@
 ### 🐾 &nbsp;About Me
 
 💡 &nbsp; I'm a entrepreneur and programmer in high school, working on projects using tsx and python. \
-💻 &nbsp;I'm currently working on a SAAS for IOS.\
-🌱 &nbsp;I'm on track for learning more about Linux, LaTeX, and engineering.\
-✍️ &nbsp;In my free time, I play tennis, make new keyboards, and watch Star Wars.\
-✉️ &nbsp;You can email me at salblake001@gmail.com. I'll try to respond as soon as possible!\
-🔗 &nbsp;You can check my [Portfolio]() for more details about work experience.
+💻 &nbsp; I'm currently working on a SAAS for IOS.\
+🌱 &nbsp; I'm on track for learning more about Linux, LaTeX, and engineering.\
+✍️ &nbsp; In my free time, I play tennis, make new keyboards, and watch Star Wars.\
+✉️ &nbsp; You can email me at salblake001@gmail.com. I'll try to respond as soon as possible!\
+🎨 &nbsp; I also create AI Art! Check it out on [Instagram](https://www.instagram.com/sal_ai_art/)\
+🔗 &nbsp; You can check my [Portfolio]() for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
